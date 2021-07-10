@@ -1,16 +1,10 @@
-# docscanner
+# Scan-D
 
-A new Flutter project.
+Document Scanner App using Flutter , built completely with the help of flutter packages.
 
-## Getting Started
+## Getting Started with the App
+Kindly throughly read the Documentation of the app before using it. The app is under constant development. 
+Link to Demo app: https://drive.google.com/file/d/1plKvQCbIczhQ-c3XIVnm_8uzP41dsMpF/view?usp=sharing
 
-This project is a starting point for a Flutter application.
+![SCAN-D](https://user-images.githubusercontent.com/72657275/125173702-28e4ba80-e1de-11eb-9e7a-ad8ab2199643.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
